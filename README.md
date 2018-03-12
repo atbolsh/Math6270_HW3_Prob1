@@ -1,4 +1,4 @@
-#### Minimalist code to solve problem 3.
+#### Minimalist code to solve problem 1.
 
  Usage:
     
